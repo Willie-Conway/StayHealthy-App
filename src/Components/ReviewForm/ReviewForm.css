@@ -1,0 +1,68 @@
+.reviews-container{
+    width: 75%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.reviews {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.reviews-header, .doctor-review {
+    display: flex;
+    width: 100%;
+    padding: 10px ;
+    align-items: center;
+}
+
+.reviews-header {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+.reviews-header p, .doctor-review p{
+    min-width: 200px;
+    
+}
+
+.doctor-review {
+    border-bottom: 1px solid #ddd;
+}
+
+.doctor-review p:last-of-type {
+    color: #c5c5c5;
+    font-style: italic;
+}
+
+.doctor-review .review-btn {
+
+    padding: 5px 0px;
+    text-align: center;
+    min-width: 150px;
+    margin-right:50px ;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.doctor-review .review-btn:hover {
+    background-color: #0056b3;
+}
+
+.review-btn.disable-btn, .review-btn.disable-btn:hover {
+    background-color: #c5c5c5;
+    cursor: not-allowed ;
+}
+
+.star {
+    cursor: pointer;
+    transition: opacity 0.2s;
+    opacity: .3;
+}
+
+.star.selected {
+    opacity: 1;
+}

@@ -1,0 +1,53 @@
+.reports-container{
+    width: 75%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.reports{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.reports-header, .reports-body , .doctor-report {
+    display: flex;
+    width: 100%;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 0 50px;
+}
+
+.reports-header {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    
+}
+
+.reports-body{
+    flex-direction: column ;
+}
+.reports-header p, .doctor-report p{
+    min-width: 150px;
+    
+}
+
+.doctor-report {
+    border-bottom: 1px solid #ddd;
+}
+
+.report-btn {
+    padding: 5px ;
+    text-align: center;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.report-btn:hover {
+    background-color: #0056b3;
+}
+.report-btn a{
+    color: #fff;
+}
