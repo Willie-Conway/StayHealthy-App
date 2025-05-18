@@ -4,7 +4,7 @@
 ## 📖 Overview
 StayHealthy is a cutting-edge **medical appointment platform** designed to seamlessly connect patients with healthcare professionals. It facilitates **online consultations**, **appointment scheduling**, and **medical record management**, ensuring a streamlined digital healthcare experience. This project was developed as part of the **Coursera capstone initiative**, aimed at enhancing healthcare access, especially in remote and underserved areas.
 
-![StayHealthy]()
+![StayHealthy](https://github.com/Willie-Conway/StayHealthy-App/blob/dc4c56c1453208064e6395c8e101aec6ce307b4b/screenshots/Home_Page.png)
 
 ## 🚀 Features
 
