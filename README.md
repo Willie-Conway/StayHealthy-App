@@ -4,7 +4,7 @@
 ## 📖 Overview
 StayHealthy is a cutting-edge **medical appointment platform** designed to seamlessly connect patients with healthcare professionals. It facilitates **online consultations**, **appointment scheduling**, and **medical record management**, ensuring a streamlined digital healthcare experience. This project was developed as part of the **Coursera capstone initiative**, aimed at enhancing healthcare access, especially in remote and underserved areas.
 
-![StayHealthy](https://github.com/user-attachments/assets/1ac3dc5a-1598-4a23-b74e-635db1b6b538)
+![StayHealthy]()
 
 ## 🚀 Features
 
